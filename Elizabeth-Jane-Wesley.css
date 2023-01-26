@@ -34,7 +34,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 431px;
-  background-image: url("images/Wesley_biopic.jpg");
+  background-image: url("np://user.desktop.nicepage.com/Site_28085983/images/Wesley_biopic.jpg?rand=948d");
   background-position: 50% 50%;
 }
 
@@ -1055,6 +1055,11 @@
   margin: 20px 0 0;
 }
 
+.u-section-9 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-9 .u-container-layout-3 {
   padding: 10px;
 }
@@ -1067,11 +1072,6 @@
 
 .u-section-9 .u-text-5 {
   margin: 30px auto 0;
-}
-
-.u-section-9 .u-btn-3 {
-  background-image: none;
-  padding: 0;
 }
 
 .u-section-9 .u-text-6 {
