@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 481px;
+  min-height: 584px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -8,7 +8,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 636px;
+  min-height: 513px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -24,16 +24,8 @@
   margin: 34px 0 0;
 }
 
-.u-section-1 .u-btn-1 {
-  border-style: solid;
-  font-weight: 700;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: 30px auto 0;
-}
-
 .u-section-1 .u-image-1 {
-  min-height: 431px;
+  min-height: 513px;
   background-image: url("images/Wesley_biopic.jpg");
   background-position: 50% 50%;
 }
@@ -48,11 +40,11 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 524px;
+    min-height: 423px;
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 355px;
+    min-height: 423px;
     background-position: 28.86% 50%;
   }
 }
@@ -68,7 +60,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 272px;
+    min-height: 324px;
     background-position: 17.59% 50%;
   }
 
@@ -85,7 +77,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    min-height: 408px;
+    min-height: 486px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -96,7 +88,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
-    min-height: 257px;
+    min-height: 306px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 466px;
