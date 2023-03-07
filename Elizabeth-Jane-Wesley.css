@@ -1092,7 +1092,7 @@
 .u-section-9 .u-icon-4 {
   width: 64px;
   height: 64px;
-  margin: 0 auto;
+  margin: 1px auto 0;
 }
 
 .u-section-9 .u-text-7 {
@@ -1105,10 +1105,15 @@
   padding: 0;
 }
 
-.u-section-9 .u-image-1 {
-  width: 256px;
-  height: 180px;
-  margin: 21px 0 0;
+.u-section-9 .u-text-8 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-9 .u-btn-6 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -1118,11 +1123,6 @@
 
   .u-section-9 .u-layout-wrap-1 {
     position: relative;
-  }
-
-  .u-section-9 .u-image-1 {
-    width: -2px;
-    height: -1px;
   }
 }
 
